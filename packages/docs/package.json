@@ -8,7 +8,7 @@
     "dev": "storybook dev -p 6006",
     "build-vite": "tsc && vite build",
     "build": "storybook build",
-    "deploy-sorybook": "storybook-to-ghpages",
+    "deploy-storybook": "storybook-to-ghpages",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
